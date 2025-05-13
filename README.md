@@ -1,2 +1,2 @@
-[Jogue aqui!](http://RATIN6.github.io/infectors)
+[Jogue aqui!](https://ratin6.github.io/Infectados/)
 
